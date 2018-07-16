@@ -237,3 +237,6 @@ li.jstree-leaf > div
 .file-icon.icon-vue {
     background: url('../svg/vue.svg');
 }
+.file-icon.icon-pug {
+    background: url('../svg/pug.svg');
+}
