@@ -85,6 +85,7 @@ define(function(require, exports, module) {
 		{  ext:'conf', alias: 'txt' },
 		{  ext:'latte', alias: 'txt' },
 		{  ext:'ini', css: 'ini' },
+	    	{  ext:'pug', css: 'pug' },
 		
     ];
 });
